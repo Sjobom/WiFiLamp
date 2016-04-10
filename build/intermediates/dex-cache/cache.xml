@@ -2,67 +2,11 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
-        <dex dex="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_d211b09d1aef460a5d72fa5050abdc5e62f7ed66\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ander\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
-        <dex dex="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_e7a1d85d3c723c9988a665b08d2e64405455d5dc\classes.dex" />
-    </item>
-    <item
         jar="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="e9fd9c8488a980bc75fe6f02c114ef85341725aa">
+        sha1="92840e150a3184bffb9c74ed024f0f868ea5e956">
         <dex dex="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2fa6bd516aa9be02ab4406a67d7fe58ff1d6c370\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
-        <dex dex="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_5b2b44db5e17c7f44dd9ad6bec5b87ae60054ea1\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
-        <dex dex="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_bf6933961945da69098a6ffb4e8f861cef34bc13\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
-        <dex dex="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_361320a5844c7102341879add01a40b1d99e6301\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
-        <dex dex="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_1703b858bafe10dd8664bf1506c2bb5252e6ecce\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="673d77a5bbddd766037f088e775df525c46407f0">
-        <dex dex="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_1eb2aeccfeed53fbc46ba0aab8d93ee3390d907b\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="8d3eb0716015a9fd28d36e7999b1f47afc3d0066">
-        <dex dex="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f629da003daf0e5cb3d2202fcb6129a1bde84340\classes.dex" />
     </item>
 
 </items>

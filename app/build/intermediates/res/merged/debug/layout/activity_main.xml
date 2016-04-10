@@ -31,5 +31,6 @@
         android:text="@string/LED_OFF"
         android:id="@+id/LED_OFF_BUTTON"
         android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:onClick="ledOff" />
 </RelativeLayout>
