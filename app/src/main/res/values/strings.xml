@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WiFiLamp</string>
+    <string name="LED_ON">Turn ON LED</string>
+    <string name="LED_OFF">Turn OFF LED</string>
+</resources>
