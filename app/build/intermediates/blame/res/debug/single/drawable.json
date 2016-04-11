@@ -4,6 +4,10 @@
         "source": "C:\\Users\\ander\\AndroidStudioProjects\\WiFiLamp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
+        "merged": "C:\\Users\\ander\\AndroidStudioProjects\\WiFiLamp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\led_on.jpg",
+        "source": "C:\\Users\\ander\\AndroidStudioProjects\\WiFiLamp\\app\\src\\main\\res\\drawable\\led_on.jpg"
+    },
+    {
         "merged": "C:\\Users\\ander\\AndroidStudioProjects\\WiFiLamp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
         "source": "C:\\Users\\ander\\AndroidStudioProjects\\WiFiLamp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
@@ -58,6 +62,10 @@
     {
         "merged": "C:\\Users\\ander\\AndroidStudioProjects\\WiFiLamp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "C:\\Users\\ander\\AndroidStudioProjects\\WiFiLamp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ander\\AndroidStudioProjects\\WiFiLamp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\led_off.jpg",
+        "source": "C:\\Users\\ander\\AndroidStudioProjects\\WiFiLamp\\app\\src\\main\\res\\drawable\\led_off.jpg"
     },
     {
         "merged": "C:\\Users\\ander\\AndroidStudioProjects\\WiFiLamp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",

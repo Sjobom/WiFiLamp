@@ -4,37 +4,44 @@
     api-level="23"
     density="560dpi"
     format="7"
-    timestamp="279987688118655"
-    verifier="COMPATIBLE" >
+    timestamp="282316885783834" >
 
     <task
         name="javac"
-        duration="188" />
+        duration="0" />
     <task
         name="instant-run-dex"
-        duration="377" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="26" />
+        duration="0" />
     <task
         name="verifier"
-        duration="2" />
+        duration="0" />
 
     <artifact
-        location="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\reload-dex\debug\classes.dex"
-        type="RELOAD_DEX" />
+        location="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
 
     <build timestamp="279912430391585" >
         <artifact
             location="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="279987688118655"
-        verifier="COMPATIBLE" >
+    <build timestamp="281546256578817" >
         <artifact
-            location="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\reload-dex\debug\classes.dex"
-            type="RELOAD_DEX" />
+            location="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="282278111135772" >
+        <artifact
+            location="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="282316885783834" >
+        <artifact
+            location="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

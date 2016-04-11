@@ -1,12 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
+<items version="2" />
 
-    <item
-        jar="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="92840e150a3184bffb9c74ed024f0f868ea5e956">
-        <dex dex="C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2fa6bd516aa9be02ab4406a67d7fe58ff1d6c370\classes.dex" />
-    </item>
-
-</items>

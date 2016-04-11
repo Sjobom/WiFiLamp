@@ -1,1 +1,0 @@
-CHANGED,C:\Users\ander\AndroidStudioProjects\WiFiLamp\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\anders\wifilamp\MainActivity.class
