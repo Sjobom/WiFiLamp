@@ -1611,9 +1611,12 @@ containing a value of this type.
         public static final int abc_textfield_search_activated_mtrl_alpha=0x7f020048;
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f020049;
         public static final int abc_textfield_search_material=0x7f02004a;
-        public static final int notification_template_icon_bg=0x7f02004b;
+        public static final int led_off=0x7f02004b;
+        public static final int led_on=0x7f02004c;
+        public static final int notification_template_icon_bg=0x7f02004d;
     }
     public static final class id {
+        public static final int LAMP_VIEW=0x7f0c0050;
         public static final int LED_OFF_BUTTON=0x7f0c0052;
         public static final int LED_ON_BUTTON=0x7f0c0051;
         public static final int action0=0x7f0c0053;
@@ -1695,7 +1698,6 @@ containing a value of this type.
         public static final int src_atop=0x7f0c0016;
         public static final int src_in=0x7f0c0017;
         public static final int src_over=0x7f0c0018;
-        public static final int stateText=0x7f0c0050;
         public static final int status_bar_latest_event_content=0x7f0c0055;
         public static final int submit_area=0x7f0c004c;
         public static final int tabMode=0x7f0c000b;

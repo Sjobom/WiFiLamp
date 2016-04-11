@@ -4,6 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.android.volley.Request;
@@ -19,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        RequestQueue queue = Volley.newRequestQueue(this);
+        lampRequest("check");
     }
 
     public void ledOn (View v){
@@ -34,18 +37,19 @@ public class MainActivity extends AppCompatActivity {
         String url;
         if (action.equals("on")){ url = "http://192.168.1.100/LED=ON/"; }
         else if(action.equals("off")){ url = "http://192.168.1.100/LED=OFF/"; }
+        else if(action.equals("check")){ url = "http://192.168.1.100/"; }
         else{ return; }
         RequestQueue queue = Volley.newRequestQueue(this);
         StringRequest stringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
             @Override
             public void onResponse(String response) {
                 Log.d("REPLY", response);
-                TextView stateText = (TextView) findViewById(R.id.stateText);
+                ImageView lamp_image = (ImageView) findViewById(R.id.LAMP_VIEW);
                 if (response.indexOf("On<br><br>") != -1){
-                    stateText.setText("LED is ON!");
+                    lamp_image.setImageResource(R.drawable.led_on);
                 }
                 else if (response.indexOf("Off<br><br>") != -1){
-                    stateText.setText("LED is OFF!");
+                    lamp_image.setImageResource(R.drawable.led_off);
                 }
             }
         },

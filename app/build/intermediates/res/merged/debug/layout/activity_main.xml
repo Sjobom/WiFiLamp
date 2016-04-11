@@ -9,20 +9,22 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.anders.wifilamp.MainActivity">
 
-    <TextView
+    <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text=""
-        android:id="@+id/stateText" />
+        android:id="@+id/LAMP_VIEW"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/LED_ON"
         android:id="@+id/LED_ON_BUTTON"
-        android:layout_below="@+id/stateText"
+        android:layout_below="@id/LAMP_VIEW"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="156dp"
+        android:layout_marginTop="30dp"
         android:onClick="ledOn" />
 
     <Button
@@ -31,6 +33,9 @@
         android:text="@string/LED_OFF"
         android:id="@+id/LED_OFF_BUTTON"
         android:layout_centerVertical="true"
+        android:layout_below="@id/LED_ON_BUTTON"
+        android:layout_marginTop="30dp"
         android:layout_centerHorizontal="true"
         android:onClick="ledOff" />
+
 </RelativeLayout>
